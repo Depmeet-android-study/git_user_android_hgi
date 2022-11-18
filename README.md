@@ -9,7 +9,6 @@
 - Paging3 With Room
 - Compose? (Not Yet <- ComposeView로 현재 대체)
 - Jetpack Navigation
-- Version Catalogs (gradle to Kotlin DSL)
 
 #### 패키지 구조
 - app : android app 모듈
